@@ -1,0 +1,39 @@
+.isi{
+    background-image: url(foto1.JPEG);
+    background-size: cover;
+    width: 1200px;
+    height: 900px;
+}
+.border-radius .img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    line-height: 340px;
+    text-align: center;
+    background-image: url(foto1.JPG);
+    color: white;
+    background-size: cover;
+}
+.border-radius p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    font-size: 30px;
+    left: 350px;
+    top: 70px;
+    opacity: .7;
+}
+.satu {
+    padding-top: 50px;
+    padding-left: 100px;
+    width: 600px;
+    height: 850px;
+    padding-right: 500px;
+    background-color: rgba(8, 8, 8, 0.3);
+}
+.satu p {
+    color: rgb(253, 247, 247);
+    text-shadow: 5px 5px 10px rgba(11, 14, 7, 0.979);
+    font-family:arial, Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    opacity: .9;
+}
